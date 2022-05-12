@@ -1,3 +1,9 @@
+# CSE 551 Project codebase
+
+We try out simulation of the Texas 2021 with different corrective measures.
+
+# Original readme:
+
 # An Open-source Model for Simulation and Corrective Measure Assessment of the 2021 Texas Power Outage
 
 [![GitHub commit](https://img.shields.io/github/last-commit/tamu-engineering-research/2021TXPowerOutage)](https://github.com/tamu-engineering-research/2021TXPowerOutage/commits/master) &nbsp;
